@@ -1,0 +1,1 @@
+from EmotionDetection.emotion_detection import emotion_detection, get_dominate_emotion

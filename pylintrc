@@ -1,0 +1,7 @@
+[MASTER]
+# Add the path to the virtual environment's site-packages directory
+init-hook='import sys; sys.path.append(".")'
+
+[MESSAGES CONTROL]
+# Disable the missing module docstring warning if not needed
+disable=C0114
